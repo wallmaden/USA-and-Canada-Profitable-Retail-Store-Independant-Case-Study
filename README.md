@@ -2,7 +2,7 @@
 This study analyses geographic distribution to identify key factors influencing profit margins across locations. Using exploratory data analysis, regression modelling, and geospatial insights, it uncovers patterns in store performance and regional profitability.
 
 ## Project Summary
-This project was completed as part of the CareerFoundry Data Analytics Program and focuses on analyzing profit margins across retail stores in the U.S. and Canada. The primary goal was to uncover trends in profitability, identify key factors influencing profit margins, and determine which regions performed best. Using Python and Excel, the analysis applied various techniques, including geospatial analysis, regression modeling, and clustering, to derive actionable business insights.
+This project was an independant case study, completed as part of the CareerFoundry Data Analytics Program. The focuses on analyzing profit margins across retail stores in the U.S. and Canada. The primary goal was to uncover trends in profitability, identify key factors influencing profit margins, and determine which regions performed best. Using Python and Excel, the analysis applied various techniques, including geospatial analysis, regression modeling, and clustering, to derive actionable business insights.
 
 ## Objectives
 - Trend Analysis: Examine profit margin trends across retail stores in the U.S. and Canada to identify patterns over time.
