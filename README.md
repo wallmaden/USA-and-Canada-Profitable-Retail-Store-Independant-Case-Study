@@ -19,8 +19,11 @@ This project was an independant case study. The focuses on analyzing profit marg
 
 ## Tools and Systems Used  
 
-<img src="https://raw.githubusercontent.com/wallmaden/USA-and-Canada-Profitable-Retail-Store-Independant-Case-Study-with-python/main/04%20Analysis%20%26%20Visualisations/python-logo-master-v3-TM.png" alt="Python Logo" width="250"/>
-<img src="https://raw.githubusercontent.com/wallmaden/USA-and-Canada-Profitable-Retail-Store-Independant-Case-Study-with-python/main/04%20Analysis%20%26%20Visualisations/tableau.png" alt="Tableau Logo" width="200"/>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/wallmaden/USA-and-Canada-Profitable-Retail-Store-Independant-Case-Study-with-python/main/04%20Analysis%20%26%20Visualisations/python-logo-master-v3-TM.png" alt="Python Logo" width="100"/>
+  <img src="https://raw.githubusercontent.com/wallmaden/USA-and-Canada-Profitable-Retail-Store-Independant-Case-Study-with-python/main/04%20Analysis%20%26%20Visualisations/tableau.png" alt="Tableau Logo" width="100"/>
+</div>
+
 
 - **Python**: Utilized Pandas for data manipulation, Matplotlib and Seaborn for visual analysis, and Scikit-learn for statistical modeling and clustering.
 - **Geospatial Analysis**: Leveraged Geopandas and Folium to visualize regional profit distribution across the U.S. and Canada.
