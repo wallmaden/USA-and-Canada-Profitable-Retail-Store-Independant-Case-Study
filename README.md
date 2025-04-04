@@ -20,8 +20,8 @@ This project was an independant case study. The focuses on analyzing profit marg
 ## Tools and Systems Used  
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/wallmaden/USA-and-Canada-Profitable-Retail-Store-Independant-Case-Study-with-python/main/04%20Analysis%20%26%20Visualisations/python-logo-master-v3-TM.png" alt="Python Logo" width="100"/>
-  <img src="https://raw.githubusercontent.com/wallmaden/USA-and-Canada-Profitable-Retail-Store-Independant-Case-Study-with-python/main/04%20Analysis%20%26%20Visualisations/tableau.png" alt="Tableau Logo" width="100"/>
+  <img src="https://raw.githubusercontent.com/wallmaden/USA-and-Canada-Profitable-Retail-Store-Independant-Case-Study-with-python/main/04%20Analysis%20%26%20Visualisations/python-logo-master-v3-TM.png" alt="Python Logo" width="190"/>
+  <img src="https://raw.githubusercontent.com/wallmaden/USA-and-Canada-Profitable-Retail-Store-Independant-Case-Study-with-python/main/04%20Analysis%20%26%20Visualisations/tableau.png" alt="Tableau Logo" width="190"/>
 </div>
 
 
