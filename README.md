@@ -18,6 +18,9 @@ This project was an independant case study. The focuses on analyzing profit marg
 - **Interactive Dashboard Development**: Created a Tableau dashboard to dynamically visualize insights and enhance data-driven decision-making.
 
 ## Tools and Systems Used  
+
+<img src="https://raw.githubusercontent.com/wallmaden/USA-and-Canada-Profitable-Retail-Store-Independant-Case-Study-with-python/main/04%20Analysis%20%26%20Visualisations/python-logo-master-v3-TM.png" alt="Python Logo" width="250"/>
+
 - **Python**: Utilized Pandas for data manipulation, Matplotlib and Seaborn for visual analysis, and Scikit-learn for statistical modeling and clustering.
 - **Geospatial Analysis**: Leveraged Geopandas and Folium to visualize regional profit distribution across the U.S. and Canada.
 - **Machine Learning & Statistical Methods**: Applied K-Means Clustering, Principal Component Analysis (PCA), and StandardScaler for data normalization and pattern detection.
