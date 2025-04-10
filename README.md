@@ -59,3 +59,14 @@ The dataset file is 2,176KB
 
 ## Tableau Presentation
 Presented  analysis can be found  [here] (https://public.tableau.com/views/USAandCanadaProfitableRetailStoreCaseStudy/Story1?:language=en-)GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link This storyboard provides a simplified set of results and recommendations.
+
+---
+
+## Author
+
+**Paul Maden**  
+Business & Data Analyst  
+🌐 [www.paulsmaden.com](https://www.paulsmaden.com)  
+📧 wallmaden@hotmail.com  
+
+---
